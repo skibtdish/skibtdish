@@ -1,3 +1,3 @@
 <div align="center">
-<img height="500" src="https://avatars.akamai.steamstatic.com/fe0fc4b308f95f72828676bffb3e866a3d6f01ea_full.jpg" alt="gif with silly cat." />
+<img height="500" src="https://media.tenor.com/TpgNaSpO6GgAAAAi/engineer-tf2.gif" alt="gif with engineer gaming." />
 </div>
